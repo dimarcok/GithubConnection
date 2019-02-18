@@ -20,6 +20,8 @@ public class GithubConnection {
         
         /*
         testing github push pull etc
+        
+        Editing now for pull
         */
     }
     
